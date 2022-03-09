@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: auto;
+}
+.nav-item col-2 special{
+    text-decoration: underline;
+}
+    h1{
+        text-align: center;
+        color:#ababab;
+        font-family: Open Sans, Arial, sans-serif ;
+    }
+    h1 span {
+        font-weight: 700px;
+        font-family: Raleway, Arial, sans-serif ;
+        color: #fff;
+
+    }
+    h5{
+        text-align: center;
+        color:#3d9f96  ;
+        font-family: Open Sans, Arial, sans-serif ;
+        margin-bottom: 10px !important;
+    }
+    p {
+        text-align: center;
+        color:#ababab;
+        font-family: Raleway, Arial, sans-serif;
+        font-size: small;
+        font-style: normal;
+    }
+    .btn btn-success button {
+        border-radius: 50px !important;
+        position: center;
+        border: none;
+        margin-bottom: 20px !important;
+    }
+    h2{
+        text-align: center;
+        color: #322f36 ;
+        font-family: Helvetica, Arial, sans-serif, 'Raleway';
+        font-weight: 200;
+        
+    }
+    h2 span{
+        color: #27242b;
+        font-weight: 700;
+        font-family:  'Raleway', Arial, sans-serif ;
+    }
+    
+    h3{
+        text-align: center;
+        color: #fff;
+        font-family: Open Sans, Arial, sans-serif ;
+        font-weight: 100;
+        font-size: 14px;
+            
+        
+    }
+    .reseausociaux{
+        padding-left: 20px;
+    }
+    
+    .tesst{
+        text-decoration: underline !important;
+    }
+    .button{
+        width: 20%;
+        height: 40px;
+        margin: 0 auto;
+        text-align: center;
+    }
+        .bouton{
+            background-color: #3d9f96;
+            color: #FFFFFF;
+            border-radius: 50px;
+            text-align: center;
+            position: center;
+            width: 150px;
+            height: 40px;
+            border: none;
+            margin: 0 auto;
+            
+         }
+        .modification{
+            width: 80% !important ;
+            margin: 0 auto !important;
+        }
+            .sousservice2{
+                margin-left: 70px;
+            }
+            .sousservice1 p{
+                text-align: left !important ;
+                width: 60% !important;
+            }
+            .sousservice2 p{
+                text-align: right  ;
+                width: 80% !important;
+                
+            }
+            .change2{
+                display: none;
+            }
+        .containerscreen{
+            width: 80% !important;
+            height: auto!important;
+            margin: 0 auto !important;
+        }
+            .containerscreen h2{
+                text-align: left !important;
+            }
+        .part5{
+            width: 80% !important;
+            height: auto!important;
+            margin: 0 auto !important;
+            margin-top: 50px !important;
+        }
+            .part5 h2{
+                text-align: left !important;
+            }
+            .part5 p{
+                width: 60%;
+                text-align: left;
+            }
+        .partie6{
+            width: 80% !important;
+            margin: 0 auto !important;
+            margin-top: 50px !important;
+        }
+            
+        
+        .part6 h2{
+            text-align: left !important;
+        }
+        .part6 p{
+            width: 70%;
+            text-align: left;
+        }
+        
+        .suite1 p {
+            width: 70% !important;
+            text-align: left;
+        }
+        .suite2 h2{
+            margin-left: 40px;
+            font-weight: 700;
+        }
+        .suite2 p{
+            margin-left: 100px ;
+            height: 10px;
+            text-align: left ;
+        }
+        .suite3 h2{
+            margin-left: 40px;
+            font-weight: 700;
+            
+        }
+        .suite3 p {
+            width: 60% !important;
+            text-align: left ;
+            margin-left: 120px;
+           
+        }
+        .footer2{
+            width: 100% !important;
+        }
+        .partfinal1 p {
+            margin-right: 70px;
+            text-align: left;
+        }
+        .partfinal2{
+            margin-left: 370px;
+            float: right !important;
+        }
+          .partfinal2 img{
+            margin-left: 50px;
+            display: inline-block;
+            
+
+          }  
+            
+            
+
